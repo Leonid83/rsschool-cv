@@ -13,4 +13,21 @@
 
 
 
+---
 
+#### *Code example*
+
+```symfony
+class DefaultController extends AbstractController
+{
+    /**
+     * @Route(path="/", methods={"GET"})
+     * @return Response
+     */
+    public function indexAction()
+{
+    return $this->render('default/index.html.twig', ['text' => 'Hi there']);
+}
+}
+
+```
