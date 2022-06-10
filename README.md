@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://Leonid83.github.io/rsschool-cv/cv
+https://Leonid83.github.io/rsschool-cv/
